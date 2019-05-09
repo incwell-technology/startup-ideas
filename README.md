@@ -13,3 +13,7 @@
   you will achieve your goals effectivly. 
   
   Lets say you are undergraduate students you need a mentor for your machine learning projects. You applicatoin should solve     this problem where software plays a role of middleware between students and mentors. Mentors who are intrested on mentorship   over the topics they have intreset, can easily pick the projects or Students get the right mentors throug your application.
+  
+- Book Sharing App
+
+  Once you read the book you have bought you may not need anymore or you can borrow that book to others so that you guys can     save your money. Your application should provide the platform where user can get medium to showcase the book they have and     borrow. 
