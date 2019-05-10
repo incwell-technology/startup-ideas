@@ -17,3 +17,9 @@
 - Book Sharing App
 
   Once you read the book you have bought you may not need anymore or you can borrow that book to others so that you guys can     save your money. Your application should provide the platform where user can get medium to showcase the book they have and     borrow. 
+
+- Slides Templete
+
+  If you are software engineer, bankers, sales person anyone, when you want to speak in front of the thousands of people you     must be well prepared on everything. If you have attractive slides then you can be more confident.
+  
+  You can build web application which cosist the google slides templete as per categories.
