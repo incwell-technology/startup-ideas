@@ -23,3 +23,9 @@
   If you are software engineer, bankers, sales person anyone, when you want to speak in front of the thousands of people you     must be well prepared on everything. If you have attractive slides then you can be more confident.
   
   You can build web application which cosist the google slides templete as per categories.
+  
+- Transparent
+
+  Have you ever thought about the money you have spent for services like parking? Does those people who runs the parking         services pays tax to the government? Its consumer rights that people should know where status of money they have spent.
+  
+  You can build the application using blockchain.
