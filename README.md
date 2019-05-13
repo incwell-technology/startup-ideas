@@ -24,8 +24,14 @@
   
   You can build web application which cosist the google slides templete as per categories.
   
-- Transparent
+- Transparent Parking using Blockchain
 
   Have you ever thought about the money you have spent for services like parking? Does those people who runs the parking         services pays tax to the government? Its consumer rights that people should know where status of money they have spent.
   
   You can build the application using blockchain.
+  
+- Transparent Agriculture using Blockchain
+  
+  You might have heard about the drastic price raise in agriculture in nepal due to the broker monopoly. There is drastic       difference actual price and market price due to broker.
+  
+  You can control the price raise using blockchain by showing the scientific cost.
