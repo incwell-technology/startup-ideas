@@ -35,3 +35,7 @@
   You might have heard about the drastic price raise in agriculture in nepal due to the broker monopoly. There is drastic       difference actual price and market price due to broker.
   
   You can control the price raise using blockchain by showing the scientific cost.
+  
+- ### Smart Restaurant System
+  Have you ever get embrassed when you have been with your best person in Restaurant? Its embrassing when you call for waiter   and didn't hear you. Build the application which shows the menu of Restaurant when you reach that location and you can order   your best dishes, get notified when your order is ready and pay instantly.
+
